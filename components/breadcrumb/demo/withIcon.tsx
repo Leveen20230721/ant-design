@@ -14,12 +14,12 @@ const App: React.FC = () => (
         title: (
           <>
             <UserOutlined />
-            <span>Application List</span>
+            <span>物流管理</span>
           </>
         ),
       },
       {
-        title: 'Application',
+        title: '需求发布',
       },
     ]}
   />
